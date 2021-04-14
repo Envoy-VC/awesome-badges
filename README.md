@@ -313,7 +313,7 @@ Badge | URL
 <img src="https://img.shields.io/github/issues/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues/{username}/{repo-name}.svg`
 <img src="https://img.shields.io/github/issues-closed/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg`
 <img src="https://img.shields.io/github/issues-pr/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg`
-<img src="https://img.shields.io/github/issues-pr-closed/Envoy-VC/Envoy-VC.svg""/> | `https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg`
+<img src="https://img.shields.io/github/issues-pr-closed/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg`
 <img src="https://badge-size.herokuapp.com/Envoy-VC/Envoy-VC/main/README.md"/> | `https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}`
 <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`
 <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`
