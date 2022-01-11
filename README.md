@@ -166,7 +166,7 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /> | `https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white`
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> | `https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white`
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" /> | `https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white`
-
+<img src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" /> | `https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white`
 
 ## 💻 Workspace Spec 
 
