@@ -301,19 +301,23 @@ Badge | URL
 <br>
 
 
-## 🎮🕹 Games 
+## 🎮 Games
 
-
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /> | `https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white`
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /> | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`
-<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white`
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /> | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white`
-<img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> | `https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white`
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /> | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white`
-<img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" /> | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`
-<img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
+| Badge                                                                                                                      | URL                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />             | `https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF`             |
+| <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />   | `https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white`   |
+| <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />       | `https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white`       |
+| <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />                       | `https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white`                       |
+| <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />               | `https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white`               |
+| <img src="https://img.shields.io/badge/Origin-F56C2D?style=for-the-badge&logo=origin&logoColor=white" />                   | `https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" />       | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`       |
+| <img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white` |
+| <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />         | `https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white`         |
+| <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" />           | `https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white" />                   | `https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />                     | `https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white`                     |
+| <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />                       | `https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white`                       |
 
 
 ---
