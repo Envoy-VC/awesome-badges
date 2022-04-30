@@ -3,6 +3,8 @@
 ---
 <br>
 
+
+
 ## 📱 Contact
 
 | Badge                                                                                                                          | URL                                                                                                                |
@@ -286,7 +288,7 @@ Badge | URL
 <br>
 
 
-## 💻 Workspace Spec 
+## 💻 Workspace Specs
 
 Badge | URL
 ------------ | -------------
