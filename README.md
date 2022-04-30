@@ -167,6 +167,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> | `https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white`
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" /> | `https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white`
 <img src="https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white" /> | `https://img.shields.io/badge/workspace-143157?style=for-the-badge&logo=NX&logoColor=white`
+<img src="https://img.shields.io/badge/sequelize.js-323330?style=for-the-badge&logo=sequelize&logoColor=blue" /> | `https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue`
+<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> | `https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink`
 
 ## 💻 Workspace Spec 
 
@@ -319,5 +321,17 @@ Badge | URL
 <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green`
 <img src="https://starchart.cc/caarlos0/starcharts.svg"/> | `https://starchart.cc/{username}/{repo}.svg`
+
+
+# 🔔 Tests
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/> | `https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white`
+<img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/> | `https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red`
+<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/> | `https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown`
+<img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/> | `https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red`
+<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/> | `https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon`
+
 
 Credits (for some of the badges)-[Aleen](https://github.com/aleen42/badges)
