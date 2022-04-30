@@ -3,58 +3,66 @@
 ---
 <br>
 
-- [📱 Contact](#-contact)
-- [🤜🤛 Group](#-group)
-- [👨 Social](#-social)
-- [🛒 Store](#-store)
-- [💻 OS](#-os)
-- [📝 Blog](#-blog)
+- # [Badges](#badges)
+
+  - [📱 Contact](#-contact)
+  - [🤜🤛 Group](#-group)
+  - [👨 Social](#-social)
+  - [🛒 Store](#-store)
+  - [💻 OS](#-os)
+  - [📝 Blog](#-blog)
 
 
-- [🎞 Streaming](#-streaming)
-- [🚀 Skills](#-skills)
-- [🔔 Tests](#-tests)
-- [💻 Workspace Spec](#-workspace-specs)
-- [🎮 Games](#-games)
-- [❤ Funding](#-funding)
-- [🎶 Sound](#-sound)
-- [🍔 Food](#-food)
+  - [🎞 Streaming](#-streaming)
+  - [🚀 Skills](#-skills)
+  - [🔔 Tests](#-tests)
+  - [💻 Workspace Spec](#-workspace-specs)
+  - [🎮 Games](#-games)
+  - [❤ Funding](#-funding)
+  - [🎶 Sound](#-sound)
+  - [🍔 Food](#-food)
 
 
-- [📊 Analytics](#-analytics)
-- [🤖 Artificial Intelligence](#-artificial-intelligence)
-- [🔗 Blockchain](#-blockchain)
-- [☁ Cloud](#-cloud)
-- [💲 Cryptocurrency](#-cryptocurrency)
-- [⚡ Database](#-database)
-- [🖍 Design](#-design)
-- [📚 Education](#-education)
-- [🌐 ETL](#-etl)
-- [👩‍💻 IDE](#-ide)
-- [🔌 IDE Plugin](#-ide-plugin)
+  - [📊 Analytics](#-analytics)
+  - [🤖 Artificial Intelligence](#-artificial-intelligence)
+  - [🔗 Blockchain](#-blockchain)
+  - [☁ Cloud](#-cloud)
+  - [💲 Cryptocurrency](#-cryptocurrency)
+  - [⚡ Database](#-database)
+  - [🖍 Design](#-design)
+  - [📚 Education](#-education)
+  - [🌐 ETL](#-etl)
+  - [👩‍💻 IDE](#-ide)
+  - [🔌 IDE Plugin](#-ide-plugin)
 
 
-- [🧐 Linters](#-linters)
-- [📱 Mobile Frameworks](#-mobile-frameworks)
+  - [🧐 Linters](#-linters)
+  - [📱 Mobile Frameworks](#-mobile-frameworks)
 
 
-- [👨‍💻 Office](#-office)
-- [⚙️ ORM](#-orm)
-- [💡 Prototyping Platforms](#-prototyping-platforms)
-- [🔒 Security Platforms](#-security-platforms)
-- [💻 Terminal](#-terminal)
+  - [👨‍💻 Office](#-office)
+  - [⚙️ ORM](#-orm)
+  - [💡 Prototyping Platforms](#-prototyping-platforms)
+  - [🔒 Security Platforms](#-security-platforms)
+  - [💻 Terminal](#-terminal)
 
 
-- [🌐 Web Browsers](#-web-browsers)
-- [🥅 Work/Jobs](#-workjobs)
-- [⏱️ Workflow Platforms](#-workflow-platforms)
-- [🚗🚗Car](#car)
-- [🎨🎨Designer](#designer)
-- [Maintained](#maintained)
-- [📈📈Website Stats](#website-stats)
-- [Feedback](#feedback)
-- [Made with](#made-with)
-- [GitHub Stats](#github-stats)
+  - [🌐 Web Browsers](#-web-browsers)
+  - [🥅 Work/Jobs](#-workjobs)
+  - [⏱️ Workflow Platforms](#-workflow-platforms)
+  - [🚗🚗Car](#car)
+  - [🎨🎨Designer](#designer)
+  - [Maintained](#maintained)
+  - [📈📈Website Stats](#website-stats)
+  - [Feedback](#feedback)
+  - [Made with](#made-with)
+  - [GitHub Stats](#github-stats)
+
+<br>
+
+---
+
+<br>
 
 ## 📱 Contact
 
