@@ -635,6 +635,72 @@ Badge | URL
 ---
 <br>
 
+## 🧐 Linters
+
+| Badge                                                                                                          | URL                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />       | `https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white`       |
+| <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  | `https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E`  |
+| <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />    | `https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white`    |
+| <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" /> | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white` |
+
+---
+<br>
+
+## 📱 Mobile Frameworks
+
+| Badge                                                                                                                | URL                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" />       | `https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white`       |
+| <img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" />   | `https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8`   |
+| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />           | `https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />               | `https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white`               |
+| <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black" /> | `https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black` |
+| <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />       | `https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB`       |
+| <img src="https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D" />           | `https://img.shields.io/badge/Sencha-044059?style=for-the-badge&logo=sencha&logoColor=#95C93D`           |
+| <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />           | `https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white`           |
+
+---
+<br>
+
+## 👨‍💻 Office
+
+| Badge                                                                                                                                | URL                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white" />                         | `https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white" />        | `https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white`        |
+| <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />             | `https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white`             |
+| <img src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white" />                             | `https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white`                             |
+| <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />                   | `https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />         | `https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white`         |
+| <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />           | `https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />         | `https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white`         |
+| <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white` |
+| <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white` |
+| <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white` |
+| <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />           | `https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />             | `https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white`             |
+| <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />                                 | `https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white`                                 |
+| <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />                             | `https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white`                             |
+| <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />                         | `https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" />                               | `https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white`                               |
+| <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" />                           | `https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white`                           |
+| <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />                             | `https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white`                             |
+
+---
+<br>
+
+## ⚙️ ORM
+
+| Badge                                                                                                          | URL                                                                                                |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>  | `https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white` |
+| <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>        | `https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white`       |
+| <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" /> | `https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white` |
+
+---
+<br>
+
 ## 🚗🚗Car
 
 Badge | URL
