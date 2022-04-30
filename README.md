@@ -394,6 +394,39 @@ Badge | URL
 ---
 <br>
 
+## 📊 Analytics
+
+| Badge                                                                                                                            | URL                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" /> | `https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white` |
+| <img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white" />                         | `https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white" />                         | `https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white" />                         | `https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white`                         |
+| <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />                       | `https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white`                       |
+
+---
+<br>
+
+## 🤖 Artificial Intelligence
+
+| Badge                                                                                                                        | URL                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />             | `https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white`             |
+| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />             | `https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white`             |
+| <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" /> | `https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white` |
+
+---
+<br>
+
+## 🔗 Blockchain
+
+| Badge                                                                                                              | URL                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" /> | `https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white` |
+
+
+---
+<br>
 
 ## 🚗🚗Car
 
