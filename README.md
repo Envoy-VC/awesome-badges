@@ -1,5 +1,8 @@
 <img src="https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?w=1200"/>
 
+---
+<br>
+
 ## 📱 Contact
 
 Badge | URL
@@ -12,6 +15,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white`
 <img src="https://aleen42.github.io/badges/src/line.svg" /> | `https://aleen42.github.io/badges/src/line.svg`
 <img src="https://aleen42.github.io/badges/src/wechat.svg" /> | `https://aleen42.github.io/badges/src/wechat.svg`
+
+---
+<br>
 
 ## 🤜🤛 Group
 
@@ -28,7 +34,12 @@ Badge | URL
 <img src="https://aleen42.github.io/badges/src/reddit.svg" /> | `https://aleen42.github.io/badges/src/reddit.svg`
 <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" /> | `https://aleen42.github.io/badges/src/stackoverflow.svg`
 
+---
+<br>
+
+
 ## 👨👩 Social
+
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> | `https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white`
@@ -43,6 +54,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white" /> | `https://img.shields.io/badge/XDA_Developers-F59812?style=for-the-badge&logo=xda-developers&logoColor=white`
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /> | `https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white`
 
+---
+<br>
+
+
 ## 🛒 Store
 
 
@@ -50,6 +65,10 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /> | `https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white`
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white`
+
+---
+<br>
+
 
 ## 💻 OS
 
@@ -66,15 +85,27 @@ Badge | URL
 <img src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" /> | `https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white`
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" /> | `https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white`
 
-# 📝 Blog
+---
+<br>
 
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white`
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /> | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white`
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /> | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white`
-<img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" /> | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`
+## 📝 Blog
+
+| Badge         | URL         |
+| ------------------------- | ----------------------- |
+| <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />             | `https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white`             |
+| <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />             | `https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white`             |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /> | `https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white` |
+| <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" />                   | `https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow`                   |
+| <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />           | `https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />               | `https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white`               |
+| <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />               | `https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white`               |
+| <img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" />                     | `https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white`                     |
+| <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white" />                        | `https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white`                        |
+| <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />         | `https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white`         |
+
+---
+<br>
+
 
 ## 🎞 Streaming 
 
@@ -86,6 +117,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" /> | `https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white`
 <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" /> | `https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white`
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" /> | `https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white`
+
+---
+<br>
 
 
 ## 🚀 Skills 
@@ -170,6 +204,24 @@ Badge | URL
 <img src="https://img.shields.io/badge/sequelize.js-323330?style=for-the-badge&logo=sequelize&logoColor=blue" /> | `https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue`
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> | `https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink`
 
+---
+<br>
+
+
+# 🔔 Tests
+
+Badge | URL
+------------ | -------------
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/> | `https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white`
+<img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/> | `https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red`
+<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/> | `https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown`
+<img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/> | `https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red`
+<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/> | `https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon`
+
+---
+<br>
+
+
 ## 💻 Workspace Spec 
 
 Badge | URL
@@ -180,6 +232,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> | `https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white`
 <img src="https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows-ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white`
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white" /> | `https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white`
+
+---
+<br>
 
 
 ## 🎮🕹 Games 
@@ -197,6 +252,9 @@ Badge | URL
 <img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white" /> | `https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white`
 
 
+---
+<br>
+
 
 ## ❤ Funding 
 
@@ -208,6 +266,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> | `https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white`
 <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /> | `https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white`
 <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> | `https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white`
+
+---
+<br>
+
 
 ## 🎶 Sound 
 
@@ -221,6 +283,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" /> | `https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white`
 <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /> | `https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white`
 
+---
+<br>
+
+
 ## 🍔🍕 Food 
 
 Badge | URL
@@ -228,6 +294,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" /> | `https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white`
 <img src="https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white" /> | `https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white`
 <img src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" /> | `https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white`
+
+---
+<br>
+
 
 ## 🚗🚗Car
 
@@ -248,6 +318,10 @@ Badge | URL
 <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg"/> | `https://aleen42.github.io/badges/src/mercedes_benz.svg`
 <img src="https://aleen42.github.io/badges/src/audi.svg"/> | `https://aleen42.github.io/badges/src/audi.svg`
 
+---
+<br>
+
+
 # 🎨🎨Designer 
 
 Badge | URL
@@ -261,6 +335,10 @@ Badge | URL
 <img src="https://aleen42.github.io/badges/src/flash.svg"/> | `https://aleen42.github.io/badges/src/flash.svg`
 <img src="https://aleen42.github.io/badges/src/zeplin.svg"/> | `https://aleen42.github.io/badges/src/zeplin.svg`
 
+---
+<br>
+
+
 # Maintained
 
 Badge | URL
@@ -269,6 +347,10 @@ Badge | URL
 <img src="https://img.shields.io/badge/Maintained%3F-no-red.svg"/> | `https://img.shields.io/badge/Maintained%3F-no-red.svg`
 <img src="http://unmaintained.tech/badge.svg"/> | `http://unmaintained.tech/badge.svg`
 
+---
+<br>
+
+
 # 📈📈Website Stats
 
 Badge | URL
@@ -276,11 +358,19 @@ Badge | URL
 <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/> | `https://img.shields.io/website-up-down-green-red/http/monip.org.svg` website:http://monip.org
 <img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg"/> | `https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg` Website: http://cv.lbesson.qc.to/
 
+---
+<br>
+
+
 # Feedback
 
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/> | `https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg`
+
+---
+<br>
+
 
 # Made with
 
@@ -299,6 +389,10 @@ Badge | URL
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/> | `http://ForTheBadge.com/images/badges/built-with-love.svg`
 <img src="http://ForTheBadge.com/images/badges/built-with-science.svg"/> | `http://ForTheBadge.com/images/badges/built-with-science.svg`
 <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg"/> | `http://ForTheBadge.com/images/badges/built-with-swag.svg`
+
+---
+<br>
+
 
 # GitHub Stats
 
@@ -323,15 +417,8 @@ Badge | URL
 <img src="https://starchart.cc/caarlos0/starcharts.svg"/> | `https://starchart.cc/{username}/{repo}.svg`
 
 
-# 🔔 Tests
-
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/> | `https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white`
-<img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/> | `https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red`
-<img src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown"/> | `https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown`
-<img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red"/> | `https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red`
-<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/> | `https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon`
+<br>
+<br>
 
 
 Credits (for some of the badges)-[Aleen](https://github.com/aleen42/badges)
