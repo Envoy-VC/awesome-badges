@@ -4,10 +4,10 @@
 <br>
 
 - [📱 Contact](#📱-contact)
-- [🤜🤛 Group](#🤜🤛-group)
-- [👨 Social](#👨-social)
-- [🛒 Store](#🛒-store)
-- [💻 OS](#💻-os)
+- [🤜🤛 Group](#-group)
+- [👨 Social](#-social)
+- [🛒 Store](#-store)
+- [💻 OS](#-os)
 - [📝 Blog](#📝-blog)
 
 
