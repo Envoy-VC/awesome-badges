@@ -1,1 +1,6 @@
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Badges for GitHub
+description: A Curated List of Badges for GitHub
+show_downloads: true
