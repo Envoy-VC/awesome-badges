@@ -10,7 +10,7 @@
 
 #### **Contributing:**
 
-Please take a quick gander at the [contribution guidelines]() first. Thanks to all [contributors](); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/Envoy-VC/Badges-for-GitHub/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/Badges-for-GitHub/graphs/contributors); you rock!
 
 
 - # [Contents](#contents)
