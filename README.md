@@ -1151,7 +1151,7 @@ Badge | URL
 Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/github/license/Envoy-VC/Python-Scripts.svg"/> | `https://img.shields.io/github/license/{username}/{repo-name}.svg`
-<img src="https://img.shields.io/github/release/Envoy-VC/Python-Scripts.svg"/> | `https://img.shields.io/github/realese/{username}/{repo-name}.svg`
+<img src="https://img.shields.io/github/release/Envoy-VC/Python-Scripts.svg"/> | `https://img.shields.io/github/release/{username}/{repo-name}.svg`
 <img src="https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg"/> | `https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg`
 <img src="https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg"/> | `https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg`
 <img src="https://img.shields.io/github/forks/Envoy-VC/Envoy-VC.svg"/> | `https://img.shields.io/github/forks/{username}/{repo-name}.svg`
