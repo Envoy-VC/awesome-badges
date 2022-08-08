@@ -1,11 +1,10 @@
 ---
-name: Badge Request
+name: New Badge Request
 about: Request a Badge
-title: "[Badge Request]"
+title: "[New Badge Request]"
 labels: Badge Request
 assignees: Envoy-VC
-
 ---
 
-- Badge name - {here}
-- Category - {here}
+- Badge name -
+- Category -
