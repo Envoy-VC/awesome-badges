@@ -1075,16 +1075,14 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 # 🎨🎨Designer
 
-| Badge                                                               | URL                                                      |
-| ------------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="https://aleen42.github.io/badges/src/behance.svg"/>       | `https://aleen42.github.io/badges/src/behance.svg`       |
-| <img src="https://aleen42.github.io/badges/src/photoshop.svg"/>     | `https://aleen42.github.io/badges/src/photoshop.svg`     |
-| <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>   | `https://aleen42.github.io/badges/src/illustrator.svg`   |
-| <img src="https://aleen42.github.io/badges/src/dreamweaver.svg"/>   | `https://aleen42.github.io/badges/src/dreamweaver.svg`   |
-| <img src="https://aleen42.github.io/badges/src/after_effects.svg"/> | `https://aleen42.github.io/badges/src/after_effects.svg` |
-| <img src="https://aleen42.github.io/badges/src/premiere.svg"/>      | `https://aleen42.github.io/badges/src/premiere.svg`      |
-| <img src="https://aleen42.github.io/badges/src/flash.svg"/>         | `https://aleen42.github.io/badges/src/flash.svg`         |
-| <img src="https://aleen42.github.io/badges/src/zeplin.svg"/>        | `https://aleen42.github.io/badges/src/zeplin.svg`        |
+| Badge                                                                                                                          | URL                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge"/>                        | `https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=fff&style=for-the-badge`                        |
+| <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge"/>       | `https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge`       |
+| <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge"/>   | `https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge`   |
+| <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?logo=adobedreamweaver&logoColor=fff&style=for-the-badge"/>   | `hhttps://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?logo=adobedreamweaver&logoColor=fff&style=for-the-badge`  |
+| <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge"/> | `https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge` |
+| <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge"/>   | `https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge`   |
 
 <br>
 
