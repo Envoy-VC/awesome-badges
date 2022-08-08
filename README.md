@@ -98,17 +98,18 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />                     | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`                                                           |
-| <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />                 | `https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white`                                                         |
-| <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white`   |
-| <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />                       | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`                                                            |
-| <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">             |  `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white`             |
+| <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />                     | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`                     |
+| <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />                 | `https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white` |
+| <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />                       | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`                       |
+| <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">             |  `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white`          |
 | <img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white"> |                `https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white` |                                             
-| <img src="https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super%20User&logoColor=white">         |  `https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super%20User&logoColor=white`         |                                                     
-| <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white">               |  `https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white`               |                                                     
-| <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white">                     |  `https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white`                                                          |
-| <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"> |  `https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white` |
-| <img src="https://aleen42.github.io/badges/src/google_plus.svg" />                                                         | `https://aleen42.github.io/badges/src/google_plus.svg`                                                           |
+| <img src="https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super%20User&logoColor=white">         |  `https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super%20User&logoColor=white`      |                                                     
+| <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white">               |  `https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white`            |                                                     
+| <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white">                     |  `https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white`                  |
+| <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"> |  `https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white`               |
+| <img src="https://aleen42.github.io/badges/src/google_plus.svg" />                                                         | `https://aleen42.github.io/badges/src/google_plus.svg`                                                         |
+
 
 <br>
 
@@ -1192,3 +1193,55 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <br>
 
 [🔝 Back to Top](#contents)
+
+---
+
+### Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Envoy-VC>
+            <img src=https://avatars.githubusercontent.com/u/65389981?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vedant Chainani/>
+            <br />
+            <sub style="font-size:14px"><b>Vedant Chainani</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Anmol-Baranwal>
+            <img src=https://avatars.githubusercontent.com/u/74038190?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
+            <br />
+            <sub style="font-size:14px"><b>Anmol Baranwal</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/darencard>
+            <img src=https://avatars.githubusercontent.com/u/8263623?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daren Card/>
+            <br />
+            <sub style="font-size:14px"><b>Daren Card</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/BicaBenedicto>
+            <img src=https://avatars.githubusercontent.com/u/87337551?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gabriel Pereira Benedicto/>
+            <br />
+            <sub style="font-size:14px"><b>Gabriel Pereira Benedicto</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/rjlopezdev>
+            <img src=https://avatars.githubusercontent.com/u/18118062?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raúl Julián López Caña/>
+            <br />
+            <sub style="font-size:14px"><b>Raúl Julián López Caña</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/StefanH-AT>
+            <img src=https://avatars.githubusercontent.com/u/31664665?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stefan Heinz/>
+            <br />
+            <sub style="font-size:14px"><b>Stefan Heinz</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
+
