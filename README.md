@@ -1050,22 +1050,20 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 ## 🚗🚗Car
 
-| Badge                                                               | URL                                                      |
-| ------------------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="https://aleen42.github.io/badges/src/lamborghini.svg"/>   | `https://aleen42.github.io/badges/src/lamborghini.svg`   |
-| <img src="https://aleen42.github.io/badges/src/bugatti.svg"/>       | `https://aleen42.github.io/badges/src/bugatti.svg`       |
-| <img src="https://aleen42.github.io/badges/src/porsche.svg"/>       | `https://aleen42.github.io/badges/src/porsche.svg`       |
-| <img src="https://aleen42.github.io/badges/src/tesla.svg"/>         | `https://aleen42.github.io/badges/src/tesla.svg`         |
-| <img src="https://aleen42.github.io/badges/src/ferrari.svg"/>       | `https://aleen42.github.io/badges/src/ferrari.svg`       |
-| <img src="https://aleen42.github.io/badges/src/toyota.svg"/>        | `https://aleen42.github.io/badges/src/toyota.svg`        |
-| <img src="https://aleen42.github.io/badges/src/mitsubishi.svg"/>    | `https://aleen42.github.io/badges/src/mitsubishi.svg`    |
-| <img src="https://aleen42.github.io/badges/src/maserati.svg"/>      | `https://aleen42.github.io/badges/src/maserati.svg`      |
-| <img src="https://aleen42.github.io/badges/src/marussia.svg"/>      | `https://aleen42.github.io/badges/src/marussia.svg`      |
-| <img src="https://aleen42.github.io/badges/src/koenigsegg.svg"/>    | `https://aleen42.github.io/badges/src/koenigsegg.svg`    |
-| <img src="https://aleen42.github.io/badges/src/bmw.svg"/>           | `https://aleen42.github.io/badges/src/bmw.svg`           |
-| <img src="https://aleen42.github.io/badges/src/land_rover.svg"/>    | `https://aleen42.github.io/badges/src/land_rover.svg`    |
-| <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg"/> | `https://aleen42.github.io/badges/src/mercedes_benz.svg` |
-| <img src="https://aleen42.github.io/badges/src/audi.svg"/>          | `https://aleen42.github.io/badges/src/audi.svg`          |
+| Badge                                                                                                           | URL                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Lamborghini-DDB320?logo=lamborghini&logoColor=fff&style=for-the-badge"/> | `https://img.shields.io/badge/Lamborghini-DDB320?logo=lamborghini&logoColor=fff&style=for-the-badge` |
+| <img src="https://img.shields.io/badge/Bugatti-BE0030?logo=bugatti&logoColor=fff&style=for-the-badge"/>         | `https://img.shields.io/badge/Bugatti-BE0030?logo=bugatti&logoColor=fff&style=for-the-badge`         |
+| <img src="https://img.shields.io/badge/Porsche-B12B28?logo=porsche&logoColor=fff&style=for-the-badge"/>         | `https://img.shields.io/badge/Porsche-B12B28?logo=porsche&logoColor=fff&style=for-the-badge`         |
+| <img src="https://img.shields.io/badge/Tesla-C00?logo=tesla&logoColor=fff&style=for-the-badge"/>                | `https://img.shields.io/badge/Tesla-C00?logo=tesla&logoColor=fff&style=for-the-badge`                |
+| <img src="https://img.shields.io/badge/Ferrari-D40000?logo=ferrari&logoColor=fff&style=for-the-badge"/>         | `https://img.shields.io/badge/Ferrari-D40000?logo=ferrari&logoColor=fff&style=for-the-badge`         |
+| <img src="https://img.shields.io/badge/Toyota-EB0A1E?logo=toyota&logoColor=fff&style=for-the-badge"/>           | `https://img.shields.io/badge/Toyota-EB0A1E?logo=toyota&logoColor=fff&style=for-the-badge`           |
+| <img src="https://img.shields.io/badge/Mitsubishi-E60012?logo=mitsubishi&logoColor=fff&style=for-the-badge"/>   | `https://img.shields.io/badge/Mitsubishi-E60012?logo=mitsubishi&logoColor=fff&style=for-the-badge`   |
+| <img src="https://img.shields.io/badge/Maserati-0C2340?logo=maserati&logoColor=fff&style=for-the-badge"/>       | `https://img.shields.io/badge/Maserati-0C2340?logo=maserati&logoColor=fff&style=for-the-badge`       |
+| <img src="https://img.shields.io/badge/BMW-0066B1?logo=bmw&logoColor=fff&style=for-the-badge"/>                 | `https://img.shields.io/badge/BMW-0066B1?logo=bmw&logoColor=fff&style=for-the-badge`                 |
+| <img src="https://img.shields.io/badge/Land%20Rover-005A2B?logo=landrover&logoColor=fff&style=for-the-badge"/>  | `https://img.shields.io/badge/Land%20Rover-005A2B?logo=landrover&logoColor=fff&style=for-the-badge`  |
+| <img src="https://img.shields.io/badge/Mercedes-242424?logo=mercedes&logoColor=fff&style=for-the-badge"/>       | `https://img.shields.io/badge/Mercedes-242424?logo=mercedes&logoColor=fff&style=for-the-badge`       |
+| <img src="https://img.shields.io/badge/Audi-BB0A30?logo=audi&logoColor=fff&style=for-the-badge"/>               | `https://img.shields.io/badge/Audi-BB0A30?logo=audi&logoColor=fff&style=for-the-badge`               |
 
 <br>
 
