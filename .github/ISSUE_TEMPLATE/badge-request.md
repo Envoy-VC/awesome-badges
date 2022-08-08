@@ -1,5 +1,5 @@
 ---
-name: New Badge Request
+name: New Badge Request with Service URL
 about: Request a New Badge with URL of Service.
 title: "[New Badge Request]"
 labels: Badge Request
