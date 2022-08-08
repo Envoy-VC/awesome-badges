@@ -102,7 +102,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />                 | `https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> | `https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white` |
 | <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />                       | `https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white`                       |
-| <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">             |  `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white`           |
+| <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">             | `https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white`           |
 | <img src="https://aleen42.github.io/badges/src/stackexchange.svg" />                                                       | `https://aleen42.github.io/badges/src/stackexchange.svg`                                                       |
 | <img src="https://aleen42.github.io/badges/src/superuser.svg" />                                                           | `https://aleen42.github.io/badges/src/superuser.svg`                                                           |
 | <img src="https://aleen42.github.io/badges/src/google_plus.svg" />                                                         | `https://aleen42.github.io/badges/src/google_plus.svg`                                                         |
@@ -1192,3 +1192,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <br>
 
 [🔝 Back to Top](#contents)
+
+---
+
+### Contributors
+
