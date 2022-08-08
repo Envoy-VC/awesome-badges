@@ -307,7 +307,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />                                 | `https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />                               | `https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white`                               |
 | <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />                                 | `https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white`                                 |
-| <img src="https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white">                           | `https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white`                        |
+| <img src="https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white">                         | `https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge&logo=Matter.js&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />                                 | `https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white`                                 |
 | <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />                                   | `https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white`                                   |
 | <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" />                                 | `https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white`                                 |
@@ -1020,6 +1020,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white">                       | `https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white`                       |
 | <img src="https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white">                   | `https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white">                   | `https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white`                   |
+| <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge" >                             | `https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge`                              |
 
 <br>
 
