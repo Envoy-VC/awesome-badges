@@ -423,7 +423,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 
 | Badge                                                                                                                      | URL                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=148EFF" />          | `https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=148EFF`          |
+| <img src="https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=white" />           | `https://img.shields.io/badge/Activision-000000?style=for-the-badge&logo=Activision&logoColor=white`           |
 | <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />             | `https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF`             |
 | <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />   | `https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white`   |
 | <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />       | `https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white`       |
