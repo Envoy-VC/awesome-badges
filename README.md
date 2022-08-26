@@ -1071,6 +1071,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge" >                             | `https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge`                              |
 | <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge">                      | `https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge`                      |
 | <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge">                          | `https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge`                          |
+| <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge">                  | `https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge`                  |
 
 <br>
 
