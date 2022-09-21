@@ -1292,6 +1292,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/dies>
+            <img src=https://avatars.githubusercontent.com/u/80762?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Serhiy Dmytryshyn/>
+            <br />
+            <sub style="font-size:14px"><b>Serhiy Dmytryshyn</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/StefanH-AT>
             <img src=https://avatars.githubusercontent.com/u/31664665?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stefan Heinz/>
             <br />
