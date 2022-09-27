@@ -1269,6 +1269,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Cubik65536>
+            <img src=https://avatars.githubusercontent.com/u/72877496?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Cubik/>
+            <br />
+            <sub style="font-size:14px"><b>Cubik</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/darencard>
             <img src=https://avatars.githubusercontent.com/u/8263623?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daren Card/>
             <br />
@@ -1282,6 +1289,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Gabriel Pereira Benedicto</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/rjlopezdev>
             <img src=https://avatars.githubusercontent.com/u/18118062?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raúl Julián López Caña/>
@@ -1289,8 +1298,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Raúl Julián López Caña</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/dies>
             <img src=https://avatars.githubusercontent.com/u/80762?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Serhiy Dmytryshyn/>
