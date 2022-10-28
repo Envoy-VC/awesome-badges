@@ -1236,6 +1236,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/>                | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`                 |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/>     | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green`      |
 | <img src="https://starchart.cc/caarlos0/starcharts.svg"/>                                                 | `https://starchart.cc/{username}/{repo}.svg`                                                      |
+| <img src="https://img.shields.io/github/last-commit/Envoy-VC/Envoy-VC.svg"/>                              | `https://img.shields.io/github/last-commit/{username}/{repo-name}.svg`
 
 <br>
 
