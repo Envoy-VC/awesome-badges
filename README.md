@@ -312,7 +312,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />                                       | `https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white`                                       |
 | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />                           | `https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white`                           |
 | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />                              | `https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white`                              |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />                                 | `https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white`                                 |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />                              | `https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white`                              |
 | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />                                   | `https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white`                                   |
 | <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />                                       | `https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white`                                       |
 | <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />                               | `https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white`                               |
@@ -836,6 +836,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | `https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white` |
 | <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" />                         | `https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white`                         |
 | <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />                               | `https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white`                               |
+| <img src="https://user-images.githubusercontent.com/97267956/196054214-862a88c3-3f2b-471a-8488-e8232088ed10.png" width="100px" />    | `https://user-images.githubusercontent.com/97267956/196054214-862a88c3-3f2b-471a-8488-e8232088ed10.png`                  |
 
 <br>
 
@@ -1090,7 +1091,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>           | `https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white`          |
 | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`                |
 | <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />        | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`        |
-| <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />        | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`        |
+| <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />      | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`      |
 
 <br>
 
@@ -1236,7 +1237,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://github-readme-stats.vercel.app/api?username=Envoy-VC&theme=blue-green"/>                | `https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green`                 |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envoy-VC&theme=blue-green"/>     | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green`      |
 | <img src="https://starchart.cc/caarlos0/starcharts.svg"/>                                                 | `https://starchart.cc/{username}/{repo}.svg`                                                      |
-| <img src="https://img.shields.io/github/last-commit/Envoy-VC/Envoy-VC.svg"/>                              | `https://img.shields.io/github/last-commit/{username}/{repo-name}.svg`
+| <img src="https://img.shields.io/github/last-commit/Envoy-VC/Envoy-VC.svg"/>                              | `https://img.shields.io/github/last-commit/{username}/{repo-name}.svg`                            |
 
 <br>
 
