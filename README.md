@@ -13,8 +13,7 @@
 
 Please take a quick look at the [contribution guidelines](https://github.com/Envoy-VC/Badges-for-GitHub/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/Envoy-VC/Badges-for-GitHub/graphs/contributors); you rock!
 
-- # [Contents](#contents)
-
+- [Awesome Badges ](#awesome-badges-) - [**Contributing:**](#contributing)
   - [📱 Contact](#-contact)
   - [🤜🤛 Group](#-group)
   - [👨 Social](#-social)
@@ -23,8 +22,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
   - [📝 Blog](#-blog)
   - [🎞 Streaming](#-streaming)
   - [🚀 Skills](#-skills)
-  - [🔔 Tests](#-tests)
-  - [💻 Workspace Spec](#-workspace-specs)
+- [🔔 Tests](#-tests)
+  - [💻 Workspace Specs](#-workspace-specs)
   - [🎮 Games](#-games)
   - [❤ Funding](#-funding)
   - [🎶 Sound](#-sound)
@@ -43,20 +42,21 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
   - [🧐 Linters](#-linters)
   - [📱 Mobile Frameworks](#-mobile-frameworks)
   - [👨‍💻 Office](#-office)
-  - [⚙️ ORM](#-orm)
+  - [⚙️ ORM](#️-orm)
   - [💡 Prototyping Platforms](#-prototyping-platforms)
   - [🔒 Security Platforms](#-security-platforms)
   - [💻 Terminal](#-terminal)
   - [🌐 Web Browsers](#-web-browsers)
   - [🥅 Other](#-other)
-  - [⏱️ Workflow Platforms](#-workflow-platforms)
+  - [⏱️ Workflow Platforms](#️-workflow-platforms)
   - [🚗🚗Car](#car)
-  - [🎨🎨Designer](#designer)
-  - [Maintained](#maintained)
-  - [📈📈Website Stats](#website-stats)
-  - [Feedback](#feedback)
-  - [Made with](#made-with)
-  - [GitHub Stats](#github-stats)
+- [🎨🎨Designer](#designer)
+- [Maintained](#maintained)
+- [📈📈Website Stats](#website-stats)
+- [Feedback](#feedback)
+- [Made with](#made-with)
+- [GitHub Stats](#github-stats)
+  - [Contributors](#contributors)
 
 <br>
 
@@ -590,6 +590,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" />                 | `https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge`                 |
 | <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" />             | `https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white`             |
 | <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge` |
+| <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge" />               | `https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge`               |
 
 <br>
 
