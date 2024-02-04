@@ -672,6 +672,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000" />               | `https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=000`               |
 | <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white" />               | `https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white`               |
 | <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />                 | `https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/The%20Open%20Network-0000ff?style=for-the-badge&logo=ton&logoColor=white" />      | `https://img.shields.io/badge/The%20Open%20Network-0000ff?style=for-the-badge&logo=ton&logoColor=white`                 |
 | <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />                        | `https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white`                        |
 | <img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000" />                     | `https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=000`                     |
 
