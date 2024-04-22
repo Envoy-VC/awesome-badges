@@ -1,6 +1,6 @@
 ### Badge Name and Link
 
-Arc | `https://img.shields.io/badge/Arc-333bfb?style=for-the-badge&logo=Arc&logoColor=white`
+Arc | `https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white`
 
 ---
 
