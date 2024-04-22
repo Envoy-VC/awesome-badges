@@ -1,13 +1,13 @@
 ### Badge Name and Link
 
-{Badge Name} | `Badge Link`
+Arc | `https://img.shields.io/badge/Arc-333bfb?style=for-the-badge&logo=Arc&logoColor=white`
 
 ---
 
 ## Badge Category
 
-{category}
+{Web Browsers}
 
 ---
 
-- [ ] I have read the [Contribution Guidelines]
+- [✔️] I have read the [Contribution Guidelines]
