@@ -378,6 +378,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />                                   | `https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white`                                   |
 | <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge` |
 | <img src="https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge" alt="Symfony Badge">  | `https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=for-the-badge` | 
+| <img src="https://img.shields.io/badge/Godot_Engine-478cbf?style=for-the-badge&logo=godotengine&logoColor=%23ffffff"> | `https://img.shields.io/badge/Godot_Engine-478cbf?style=for-the-badge&logo=godotengine&logoColor=%23ffffff` |
 
 <br>
 
