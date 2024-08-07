@@ -1019,6 +1019,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />                   | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white" />                 | `https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white`                 |
 
 <br>
 
