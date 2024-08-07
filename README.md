@@ -1097,6 +1097,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`                |
 | <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />        | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`        |
 | <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />      | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`      |
+| <img src="https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n" />      | `https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n`      |
+| <img src="https://img.shields.io/badge/Make-9159c5?style=for-the-badge&logo=make" />      | `https://img.shields.io/badge/Make-9159c5?style=for-the-badge&logo=make`      |
 
 <br>
 
