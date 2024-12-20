@@ -1256,42 +1256,42 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Envoy-VC>
-            <img src=https://avatars.githubusercontent.com/u/65389981?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vedant Chainani/>
+            <img src=https://private-avatars.githubusercontent.com/u/65389981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMyMjAsIm5iZiI6MTczNDY4MjAyMCwicGF0aCI6Ii91LzY1Mzg5OTgxIn0.XyOCLA1stEpUMhHuAjwEvIIYzVySxY1Q8AplvAyaYuk&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Vedant Chainani/>
             <br />
             <sub style="font-size:14px"><b>Vedant Chainani</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Anmol-Baranwal>
-            <img src=https://avatars.githubusercontent.com/u/74038190?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
+            <img src=https://private-avatars.githubusercontent.com/u/74038190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMyMjAsIm5iZiI6MTczNDY4MjAyMCwicGF0aCI6Ii91Lzc0MDM4MTkwIn0.NIe-nb-RYTm1qeZOoWirw2Bvo_Dn7Mr_UrEcLXJy5tQ&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Anmol Baranwal/>
             <br />
             <sub style="font-size:14px"><b>Anmol Baranwal</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Natha-Rey>
-            <img src=https://avatars.githubusercontent.com/u/75953657?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Nathaly Reyes/>
+            <img src=https://private-avatars.githubusercontent.com/u/75953657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMxMDAsIm5iZiI6MTczNDY4MTkwMCwicGF0aCI6Ii91Lzc1OTUzNjU3In0.QYvm6WMjcJo5SlHayRBBY7ytg2ZDYkMtLHPTvqc863k&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Nathaly Reyes/>
             <br />
             <sub style="font-size:14px"><b>Nathaly Reyes</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Cubik65536>
-            <img src=https://avatars.githubusercontent.com/u/72877496?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Qian Qian "Cubik"‎/>
+            <img src=https://private-avatars.githubusercontent.com/u/72877496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMyMjAsIm5iZiI6MTczNDY4MjAyMCwicGF0aCI6Ii91LzcyODc3NDk2In0.Q5SnIaeh0zvM9UL3NiQXWS0yCa4mYw9eE6nmagBxog0&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Qian Qian "Cubik"‎/>
             <br />
             <sub style="font-size:14px"><b>Qian Qian "Cubik"‎</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/darencard>
-            <img src=https://avatars.githubusercontent.com/u/8263623?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daren Card/>
+            <img src=https://private-avatars.githubusercontent.com/u/8263623?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMyODAsIm5iZiI6MTczNDY4MjA4MCwicGF0aCI6Ii91LzgyNjM2MjMifQ.1HEiug18IXRrvPX2YeYk1aJGRJJELGvNQVvdsC5wneE&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daren Card/>
             <br />
             <sub style="font-size:14px"><b>Daren Card</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/BicaBenedicto>
-            <img src=https://avatars.githubusercontent.com/u/87337551?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gabriel Pereira Benedicto/>
+            <img src=https://private-avatars.githubusercontent.com/u/87337551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMyODAsIm5iZiI6MTczNDY4MjA4MCwicGF0aCI6Ii91Lzg3MzM3NTUxIn0.rYqQoP3rJhP_bGLQAMC6hLoX_VPM1CuOCAvZ6A8qiwE&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Gabriel Pereira Benedicto/>
             <br />
             <sub style="font-size:14px"><b>Gabriel Pereira Benedicto</b></sub>
         </a>
@@ -1300,28 +1300,28 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Milo40>
-            <img src=https://avatars.githubusercontent.com/u/33132706?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=pf1×3r/>
+            <img src=https://private-avatars.githubusercontent.com/u/33132706?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODM0MDAsIm5iZiI6MTczNDY4MjIwMCwicGF0aCI6Ii91LzMzMTMyNzA2In0.KpIknNKiWvqPBVnD5w2Lmapf1ZiPXGgAkMkEKZ7Lri8&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=pf1×3r/>
             <br />
             <sub style="font-size:14px"><b>pf1×3r</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/rjlopezdev>
-            <img src=https://avatars.githubusercontent.com/u/18118062?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raúl Julián López Caña/>
+            <img src=https://private-avatars.githubusercontent.com/u/18118062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMyODAsIm5iZiI6MTczNDY4MjA4MCwicGF0aCI6Ii91LzE4MTE4MDYyIn0.OjvcGfil62ukvm8t8sfz3VhR3YqHAxH2IgiIodfPs5I&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Raúl Julián López Caña/>
             <br />
             <sub style="font-size:14px"><b>Raúl Julián López Caña</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/dies>
-            <img src=https://avatars.githubusercontent.com/u/80762?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Serhiy Dmytryshyn/>
+            <img src=https://private-avatars.githubusercontent.com/u/80762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODMxMDAsIm5iZiI6MTczNDY4MTkwMCwicGF0aCI6Ii91LzgwNzYyIn0.XtELRy1_Yy6mWqjA-0YZNpingO8CB7LAiCcqqM9SerI&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Serhiy Dmytryshyn/>
             <br />
             <sub style="font-size:14px"><b>Serhiy Dmytryshyn</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/StefanH-AT>
-            <img src=https://avatars.githubusercontent.com/u/31664665?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stefan Heinz/>
+            <img src=https://private-avatars.githubusercontent.com/u/31664665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODI2MjAsIm5iZiI6MTczNDY4MTQyMCwicGF0aCI6Ii91LzMxNjY0NjY1In0.Rjjsxgi03jS90sYMWTr3sRj1-KCZMendoYxNC-06iNc&v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stefan Heinz/>
             <br />
             <sub style="font-size:14px"><b>Stefan Heinz</b></sub>
         </a>
