@@ -1023,6 +1023,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />                   | `https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white`                   |
 | <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />         | `https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white`         |
 | <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white" />                 | `https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white`                 |
+| <img src="https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white" />                 | `https://img.shields.io/badge/Arc-3139fb?style=for-the-badge&logo=Arc&logoColor=white`                 |
 
 <br>
 
@@ -1101,6 +1102,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />                | `https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white`                |
 | <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />        | `https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white`        |
 | <img src="https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white" />      | `https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white`      |
+| <img src="https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n" />      | `https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n`      |
+| <img src="https://img.shields.io/badge/Make-9159c5?style=for-the-badge&logo=make" />      | `https://img.shields.io/badge/Make-9159c5?style=for-the-badge&logo=make`      |
 
 <br>
 
