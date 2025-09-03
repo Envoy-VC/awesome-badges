@@ -876,7 +876,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
 | <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />  | `https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E`  |
 | <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" />    | `https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white`    |
 | <img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" /> | `https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white` |
-| <img src="https://img.shields.io/badge/Rome-27272A?logo=rome&logoColor=fff&style=for-the-badge" /> | `https://img.shields.io/badge/Rome-27272A?logo=rome&logoColor=fff&style=for-the-badge` |
+| <img src="https://img.shields.io/badge/Biome-3447FF?style=for-the-badge&logo=biome&logoColor=white" /> | `https://img.shields.io/badge/Biome-3447FF?style=for-the-badge&logo=biome&logoColor=white` |
 
 <br>
 
