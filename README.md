@@ -1285,17 +1285,40 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/SAKET-SK>
+            <img src=https://avatars.githubusercontent.com/u/60461421?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Saket Khopkar/>
+            <br />
+            <sub style="font-size:14px"><b>Saket Khopkar</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Pichuelectrico>
+            <img src=https://avatars.githubusercontent.com/u/88551868?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Joshua Reinoso/>
+            <br />
+            <sub style="font-size:14px"><b>Joshua Reinoso</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Qubik65536>
             <img src=https://avatars.githubusercontent.com/u/72877496?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Qian Qian "Qubik"/>
             <br />
             <sub style="font-size:14px"><b>Qian Qian "Qubik"</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/darencard>
             <img src=https://avatars.githubusercontent.com/u/8263623?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Daren Card/>
             <br />
             <sub style="font-size:14px"><b>Daren Card</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/doda-s>
+            <img src=https://avatars.githubusercontent.com/u/53160578?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Dodas_/>
+            <br />
+            <sub style="font-size:14px"><b>Dodas_</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -1305,8 +1328,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Gabriel Pereira Benedicto</b></sub>
         </a>
     </td>
-</tr>
-<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/marcalexiei>
+            <img src=https://avatars.githubusercontent.com/u/24919330?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Marco Pasqualetti/>
+            <br />
+            <sub style="font-size:14px"><b>Marco Pasqualetti</b></sub>
+        </a>
+    </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Milo40>
             <img src=https://avatars.githubusercontent.com/u/33132706?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=pf1×3r/>
@@ -1321,6 +1349,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <sub style="font-size:14px"><b>Raúl Julián López Caña</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/dies>
             <img src=https://avatars.githubusercontent.com/u/80762?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Serhiy Dmytryshyn/>
@@ -1333,6 +1363,20 @@ Please take a quick look at the [contribution guidelines](https://github.com/Env
             <img src=https://avatars.githubusercontent.com/u/31664665?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Stefan Heinz/>
             <br />
             <sub style="font-size:14px"><b>Stefan Heinz</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/valentinesamuel>
+            <img src=https://avatars.githubusercontent.com/u/67756784?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Valentine Samuel/>
+            <br />
+            <sub style="font-size:14px"><b>Valentine Samuel</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Til0r>
+            <img src=https://avatars.githubusercontent.com/u/24627876?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Antonio Santangelo/>
+            <br />
+            <sub style="font-size:14px"><b>Antonio Santangelo</b></sub>
         </a>
     </td>
 </tr>
